@@ -1,0 +1,27 @@
+{
+    "reservations": [
+      {
+        "0": [
+            {
+                "roomName": "Sapudi",
+                "startTime": 1582682400000,
+                "endTime": 1582684200000,
+                "purpose": "HR Weekly",
+                "contactPerson": "Wito"
+            }
+        ],
+        "1": [
+            {
+                "roomName": "Sapudi",
+                "startTime": 1582682400000,
+                "endTime": 1582684200000,
+                "purpose": "HR Weekly",
+                "contactPerson": "Wito"
+            }
+        ]
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

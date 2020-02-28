@@ -22,6 +22,58 @@
         "contactPerson": "Wito"
       }
     ],
+
+    "room": {
+      "Mandangin 1": {
+        "reservations": [
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Rapat",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Wito"
+          }
+        ]
+      },
+      "Mandangin 2": {
+
+      },
+      "Raas 1": {
+
+      },
+      "Sapudi 1": {
+
+      },
+      "Sapudi 2": {
+
+      },
+      "Sapudi 3": {
+
+      },
+      "Sapudi 4": {
+
+      },
+      "Sampang 1": {
+
+      },
+      "Sampang 2": {
+
+      },
+      "Sampang 3": {
+
+      },
+      "Sampang 4": {
+
+      }
+    
+    },
+
+    
     "profile": {
       "name": "typicode"
     }

@@ -11,7 +11,14 @@
         "roomName": "Mandangin",
         "startTime": 1582682400000,
         "endTime": 1582684200000,
-        "purpose": "HR Weekly",
+        "purpose": "Rapat",
+        "contactPerson": "Wito"
+      },
+      {
+        "roomName": "Sapudi",
+        "startTime": 1582682400000,
+        "endTime": 1582684200000,
+        "purpose": "Meeting",
         "contactPerson": "Wito"
       }
     ],

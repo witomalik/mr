@@ -30,55 +30,195 @@
       }
     ],
 
-    "room": {
-      "Mandangin 1": {
-        "reservations": [
+    "room": [
+      {
+        "roomName": "Mandangin 1",
+        "reservations":[
           {
             "startTime": 1582682400000,
             "endTime": 1582684200000,
-            "purpose": "Rapat",
+            "purpose": "Test",
             "contactPerson": "Wito"
           },
           {
             "startTime": 1582682400000,
             "endTime": 1582684200000,
             "purpose": "Meeting",
-            "contactPerson": "Wito"
+            "contactPerson": "Malik"
           }
         ]
       },
-      "Mandangin 2": {
-
+      {
+        "roomName": "Mandangin 2",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Raas 1": {
-
+      {
+        "roomName": "Raas 1",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sapudi 1": {
-
+      {
+        "roomName": "Sapudi 1",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sapudi 2": {
-
+      {
+        "roomName": "Sapudi 2",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sapudi 3": {
-
+      {
+        "roomName": "Sapudi 3",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sapudi 4": {
-
+      {
+        "roomName": "Sapudi 4",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sampang 1": {
-
+      {
+        "roomName": "Sampang 1",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sampang 2": {
-
+      {
+        "roomName": "Sampang 2",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sampang 3": {
-
+      {
+        "roomName": "Sampang 3",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       },
-      "Sampang 4": {
-
+      {
+        "roomName": "Sampang 4",
+        "reservations":[
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Test",
+            "contactPerson": "Wito"
+          },
+          {
+            "startTime": 1582682400000,
+            "endTime": 1582684200000,
+            "purpose": "Meeting",
+            "contactPerson": "Malik"
+          }
+        ]
       }
-    
-    },
+    ],
 
 
     "profile": {

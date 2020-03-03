@@ -2,8 +2,8 @@
     "reservations": [
       {
         "roomName": "Sapudi 1",
-        "startTime": 1583118000000,
-        "endTime": 1583128800000,
+        "startTime": 1583218800000,
+        "endTime": 1583226000000,
         "purpose": "HR Weekly",
         "contactPerson": "Wito"
       },
@@ -15,9 +15,9 @@
         "contactPerson": "Wito"
       },
       {
-        "roomName": "Sapudi 2",
-        "startTime": 1582682400000,
-        "endTime": 1582684200000,
+        "roomName": "Sapudi 1",
+        "startTime": 1583229600000,
+        "endTime": 1583236800000,
         "purpose": "Meeting",
         "contactPerson": "Malik"
       },
